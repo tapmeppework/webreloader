@@ -17,7 +17,7 @@ application/*
 .DS_Store*
 .env
 .github
-# !.gitkeep
+!.gitkeep
 # ...
 composer.lock
 desktop.ini
