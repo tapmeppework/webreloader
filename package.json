@@ -1,18 +1,25 @@
 {
-  "name": "@tapmeppe/proprietyon",
-	"version": "0.5.4",
-	"main": "main.js",
+	"name": "@tapmeppe/webreloader",
+	"version": "1.0.0",
+	"description": "This project can be used to hot-reload any static web application during the development stage. For example applications written with HTML, CSS & JS.",
+	"main": "starter.js",
   "scripts": {
-		"dev": "cls && node main.js",
-		"start": "node main.js",
-		"test": "cls && node maintenance.js test",
-		"deploy": "cls && node maintenance.js deploy",
-		"publish": "cls && node maintenance.js publish",
-		"zyxw": "cls && node maintenance.js zyxw"
+		"dev": "cls && node starter.js",
+		"start": "node starter.js",
+		"test": "node starter.js template"
   },
+	"keywords": [
+		"tapmeppe",
+		"tapmeppework",
+		"hot-reload",
+		"nodejs",
+		"javascript",
+		"html",
+		"css",
+		"bootstrap"
+	],
 	"author": "Patrick Meppe (patrick.meppe@tapmeppe.work)",
-	"license": "MIT license",
-	"description": "This environment is used to build the website of company: t@pm3pp3 w0rk.",
+	"license": "GNU General Public License v3.0",
 	"dependencies": {
 		"browser-sync": "^3.0.3"
   }
