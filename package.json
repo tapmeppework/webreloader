@@ -1,6 +1,6 @@
 {
 	"name": "@tapmeppe/webreloader",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "This project can be used to hot-reload any static web application during the development stage. For example applications written with HTML, CSS & JS.",
 	"main": "starter.js",
   "scripts": {

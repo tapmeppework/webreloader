@@ -29,13 +29,13 @@ First some definitions.
 	 ```
 4. Download the repository by running the following commands:
 	 ```shell
-	 git clone https://github.com/tapmeppe/webreloader.git webreloader
+	 git clone https://github.com/tapmeppework/webreloader.git webreloader
    cd webreloader
    npm install
 	 ```
 
 ### Manually
-1. [Download the webreloader project as a .zip file](https://github.com/tapmeppe/webreloader/archive/refs/heads/main.zip).
+1. [Download the webreloader project as a .zip file](https://github.com/tapmeppework/webreloader/archive/refs/heads/main.zip).
 2. Extract the .zip file. The result will be a single **non-empty** folder.
 3. Rename the newly created folder to '**webreloader**'.
 4. Move the folder *webreloader/* to the **root**. Meaning place it directly under the **root**.
